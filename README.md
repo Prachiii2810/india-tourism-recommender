@@ -4,7 +4,7 @@ An AI-powered web application designed to help travelers discover optimal touris
 
 Built as a capstone submission for the **IBM 6-Week AI Virtual Internship Framework**.
 
-Live Production App Link: [Insert your Streamlit Cloud URL here](https://your-app-name.streamlit.app)
+Live Production App Link: https://india-tourism-recommender.streamlit.app/
 
 ---
 
